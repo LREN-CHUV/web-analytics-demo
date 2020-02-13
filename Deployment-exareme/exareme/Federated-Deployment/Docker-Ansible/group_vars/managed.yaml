@@ -1,0 +1,5 @@
+remote_user: 
+become_user: root
+become_pass: 
+ansible_ssh_pass: 
+
