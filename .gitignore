@@ -1,4 +1,8 @@
 .idea
 tmp/
-log/
-*.log
+logs/
+*.db
+.IPs_env
+.env
+Federation/logs
+Federation/.combined_env
